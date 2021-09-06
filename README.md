@@ -22,6 +22,8 @@ Aimbooster is an "Aimbot" for aimbooster, it automatically clicks in the middle 
 
 bcolors colors text when outputted. Usage is shown in the file.
 
+RequestsExample is an example of a simple request to an API
+
 
 
 ## Contributing
