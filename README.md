@@ -12,6 +12,18 @@ An example of an dependencie install is below.
 pip install pyautogui
 ```
 
+## About each file here.
+
+NumberGuesser is a little game where you guess a number and it tells you higher, or lower till you get the correct number.
+
+WifiPWs tells you all of your previously connected wifi names, and passwords.
+
+Aimbooster is an "Aimbot" for aimbooster, it automatically clicks in the middle of the circle for you.
+
+bcolors colors text when outputted. Usage is shown in the file.
+
+
+
 ## Contributing
 
 Please don't try to contribute, I won't accept them as I don't care very much about these old projects.
