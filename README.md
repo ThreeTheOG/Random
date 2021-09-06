@@ -12,7 +12,7 @@ An example of an dependencie install is below.
 pip install pyautogui
 ```
 
-## About each file
+## About Each File
 
 NumberGuesser is a little game where you guess a number and it tells you higher, or lower till you get the correct number.
 
