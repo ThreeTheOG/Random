@@ -31,3 +31,8 @@ while keyboard.is_pressed('q') == False:
                 click(x+660,y+350)
                 time.sleep(0.05)
                 break
+
+# Some imports are weird, so go ahead and paste this command into terminal for imports.
+# pip install pywin32 keyboard pyautogui opencv-python
+# Also, I just remembered that I coded along with KianBrose to create this.
+
