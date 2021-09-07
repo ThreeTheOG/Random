@@ -24,6 +24,7 @@ bcolors colors text when outputted. Usage is shown in the file.
 
 RequestsExample is an example of a simple request to an API
 
+Filecheck looks over all files in the CWD, checks which end with '.py', strips the last 3 characters, and prints them.
 
 
 ## Contributing
