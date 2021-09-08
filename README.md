@@ -26,6 +26,8 @@ RequestsExample is an example of a simple request to an API
 
 Filecheck looks over all files in the CWD, checks which end with '.py', strips the last 3 characters, and prints them.
 
+ImageCompression compresses images. (Has many benifits, some are listed in the file itself.)
+
 
 ## Contributing
 
