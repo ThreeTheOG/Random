@@ -1,18 +1,18 @@
 from random import randrange
 
-number = randrange(1000)
-num = int(number)
-
 choice = ''
+num = randrange(1000)
 
-while choice != 'exit':
-    choice_not_int = input('Guess the number. ')
-    choice = int(choice_not_int)
-    if choice == num:
-        print('You got it!')
-        exit()
-    elif choice > num:
-        print('Lower')
-    elif choice < num:
-        print('Higher')
-
+while choice != 'q':
+    try:
+        choice = input('Enter a number: ')
+    
+        if int(choice) == num:
+            print('You got it!')
+            break
+        if int(choice) > num:
+            print('Lower')
+        if int(choice) < num:
+            print('Higher')
+    except ValueError:
+        print('Please enter a valid number.')
