@@ -28,11 +28,8 @@ Filecheck looks over all files in the CWD, checks which end with '.py', strips t
 
 ImageCompression compresses images. (Has many benifits, some are listed in the file itself.)
 
-<<<<<<< HEAD
 Webhost is a simple way to host a website with Python instead of other methods like Apache.
-=======
->>>>>>> d6759c8b021b8edad9db623b2df08b7721fac02f
 
 ## Contributing
 
-Please don't try to contribute, I won't accept them as I don't care very much about these old projects.
+Please don't try to contribute, I won't accept them as I don't care very much about these old projects. <3
