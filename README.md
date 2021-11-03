@@ -30,6 +30,8 @@ ImageCompression compresses images. (Has many benifits, some are listed in the f
 
 Webhost is a simple way to host a website with Python instead of other methods like Apache.
 
+SimplePassGen is a simple password generator that uses all characters.
+
 ## Contributing
 
 Please don't try to contribute, I won't accept them as I don't care very much about these old projects. <3
